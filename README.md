@@ -1,8 +1,5 @@
-[![HitCount](http://hits.dwyl.io/rbhatia46/LendingClub-Loan-Analysis.svg)](http://hits.dwyl.io/rbhatia46/LendingClub-Loan-Analysis)
-
 # LendingClub-Loan-Analysis
 
-![Logo](https://d1ic4altzx8ueg.cloudfront.net/niche-builder/5cb94cef96518.png)
 
 Lending loans to ‘risky’ applicants is the largest source of financial loss(called credit loss) for any bank/lending company. If we are able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using Data Analysis is the aim of this case study. Lending Club (a peer-to-peer lending company) wants to understand the driving factors behind loan default. The company can utilise this knowledge for its portfolio and risk assessment.
 2 types of risks are associated with the
@@ -14,11 +11,6 @@ loan results in a loss of business to the company
 default, then approving the loan may lead to a financial loss for the
 company
 
-## Data Used :
-The data used was acquired from Kaggle, open-sourced by LendingClub itself to welcome Data Scientist help them identify driving factors behind 
-loan default, using historic data of loan applications.
-
-* Be sure to checkout the Data Dictionary for the meaning of each column in the dataset.
 
 * The data given contains the information about past loan applicants and
 whether they ‘defaulted’ or not. The aim is to identify patterns which
